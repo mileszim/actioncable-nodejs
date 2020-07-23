@@ -1,4 +1,4 @@
-  name: Release
+name: Release
 on:
   push:
     branches:
@@ -15,7 +15,6 @@ jobs:
       - name: Release
         uses: ridedott/release-me-action@master
         with:
-          release-branches: master
           node-module: true
         env:
           GITHUB_TOKEN: ${{ secrets.PROTECTED_BRANCH_GITHUB_ACCESS_TOKEN }}
