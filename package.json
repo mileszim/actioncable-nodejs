@@ -1,6 +1,6 @@
 {
-  "name": "actioncable-nodejs",
-  "version": "0.0.1",
+  "name": "@mileszim/actioncable-nodejs",
+  "version": "0.0.2",
   "description": "ails ActionCable Client for Node",
   "main": "dist/index.js",
   "directories": {
