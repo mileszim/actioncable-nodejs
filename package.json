@@ -1,7 +1,7 @@
 {
   "name": "@mileszim/actioncable-nodejs",
   "version": "0.0.4",
-  "description": "ails ActionCable Client for Node",
+  "description": "Rails ActionCable Client for Node",
   "main": "dist/index.js",
   "directories": {
     "src": "src"
