@@ -1,3 +1,9 @@
+## [0.0.4](https://github.com/mileszim/actioncable-nodejs/compare/v0.0.3...v0.0.4) (2020-07-23)
+
+### Bug Fixes
+
+- try being more explicit in yarn publish ([7a09d8f](https://github.com/mileszim/actioncable-nodejs/commit/7a09d8fc916c59c5d19cd725b327c919e5e06521))
+
 ## [0.0.3](https://github.com/mileszim/actioncable-nodejs/compare/v0.0.2...v0.0.3) (2020-07-23)
 
 ### Bug Fixes
