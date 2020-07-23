@@ -1,0 +1,37 @@
+{
+  "name": "actioncable-nodejs",
+  "version": "0.0.1",
+  "description": "ails ActionCable Client for Node",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mileszim/actioncable-nodejs.git"
+  },
+  "keywords": [
+    "rails",
+    "actioncable",
+    "node",
+    "client",
+    "websockets"
+  ],
+  "author": "mileszim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mileszim/actioncable-nodejs/issues"
+  },
+  "homepage": "https://github.com/mileszim/actioncable-nodejs#readme",
+  "dependencies": {
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4"
+  }
+}
