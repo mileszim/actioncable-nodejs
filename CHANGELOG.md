@@ -1,3 +1,9 @@
+## [0.0.5](https://github.com/mileszim/actioncable-nodejs/compare/v0.0.4...v0.0.5) (2020-07-23)
+
+### Bug Fixes
+
+- description in package.json ([90a2eee](https://github.com/mileszim/actioncable-nodejs/commit/90a2eee70b70dff58ab6170db95189ae6d625154))
+
 ## [0.0.4](https://github.com/mileszim/actioncable-nodejs/compare/v0.0.3...v0.0.4) (2020-07-23)
 
 ### Bug Fixes
